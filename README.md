@@ -7,6 +7,7 @@
 <li>pizza</li>
 </ul>
 
-##matewojno.github.io/odin-recipies
+`<a href="matewojno.github.io/odin-recipies"><button>To the page</button></a>`
 
-`i know there is a typo :D
+
+`i know there is a typo :D`
