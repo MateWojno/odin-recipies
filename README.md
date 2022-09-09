@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 `Italian style cuisine`
 
 <ul>
