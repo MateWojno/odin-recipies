@@ -1,0 +1,38 @@
+/* sass is better to do styles */
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head {
+    font-size: 32px;
+    text-align: center;
+}
+
+
+img {
+    padding: auto;
+    width: 300px;
+    height: auto;
+} 
+
+.item {
+    font-weight: 800;
+    color: #fff;
+    text-align: center;
+    background-color: #0000008f;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: auto;
+    font-size: 20px;
+}
+
+button {
+    padding: auto;
+    gap: auto;
+    font-size: large;
+}
+
+body {
+    background-color: #0f0f1f2c;
+}
